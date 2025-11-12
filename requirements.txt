@@ -1,0 +1,6 @@
+numpy>=1.22
+pandas>=1.5
+matplotlib>=3.6
+# Opcional (si vas a usar cuadernos):
+jupyter>=1.0
+jupytext>=1.16
